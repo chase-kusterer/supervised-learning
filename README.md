@@ -1,2 +1,2 @@
-# analytics-and-ml
+# Supervised Learning
 Analytics and machine learning notebooks.
