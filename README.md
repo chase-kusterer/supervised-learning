@@ -7,7 +7,7 @@ __**Interactive Mode**__
 Click the **Launch Binder** button above to experience the notebooks in interactive mode.
 <br><br>
 __**Static Mode**__
-Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">supervised-learning repository</a> to experience the notebooks in static mode.
+Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">supervised-learning repository</a> to experience the notebooks in static mode. Note that if you wish to download notebooks to experience them locally, it is highly recommended that you first set up environment.yml (available in the repository).
 <br><br>
 
 ## Contents
