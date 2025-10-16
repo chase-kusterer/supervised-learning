@@ -1,2 +1,31 @@
 # Supervised Learning
 Analytics and machine learning notebooks.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/supervised-learning/main?urlpath=tree&clear_cache=0)
+
+__**Interactive Mode**__
+Click the **Launch Binder** button above to experience the notebooks in interactive mode.
+<br><br>
+__**Static Mode**__
+Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">supervised-learning repository</a> to experience the notebooks in static mode.
+<br><br>
+
+## Contents
+
+<br><br>
+
+### Special Thanks to Binder
+[Binder](https://mybinder.org/) made it possible for you to open this book with a single click. This has potentially saved every reader hours of setup time.
+<br><br>
+
+### License
+
+© 2025 Chase Kusterer. All rights reserved.
+
+This book is licensed under the 
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt the material for **non-commercial purposes**, 
+as long as you give appropriate credit and indicate if changes were made.
+
+See the [LICENSE](LICENSE) file for the full legal text.
