@@ -1,5 +1,5 @@
 # Supervised Learning
-Analytics and machine learning notebooks.
+This repository contains machine learning notebooks focused on supervised learning (regression and classification). Each *script* is a guided Jupyter Notebook that walks through a key stage of the data-science workflow — combining conceptual explanations, analytical exploration, live coding exercises, and sample solutions.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/supervised-learning/main?urlpath=tree&clear_cache=0)
 
@@ -10,8 +10,26 @@ __**Static Mode**__
 Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">supervised-learning repository</a> to experience the notebooks in static mode. Note that if you wish to download notebooks to experience them locally, it is highly recommended that you first set up environment.yml (available in the repository).
 <br><br>
 
-## Contents
+## Table of Contents
+### Regression Modeling
+Script 01 - Base Modeling
+Script 02 - Missing Value Analysis and Transformations
+Script 03 - Feature Engineering
+Script 04 - Feature Engineering with Discrete Data
+Script 05 - The Model Building Framework
+Script 06 - Advanced Linear Models
+Script 07 - KNN and Distance Standardization
+Script 08 - Nonparametric Modeling with Regression Trees
+Script 09 - Hyperparameter Tuning
+Script 10 - Nonparametric Ensemble Models
 
+### Classification Modeling
+Script 01 - Preparing the Titanic Dataset
+Script 02 - From Regression to Classification
+Script 03 - Changing the Prediction Threshold
+Script 04 - Classification Trees
+Script 05 - Hyperparameter Tuning and Ensemble Modeling
+Script 06 - Classification Modeling with Unsupervised Data
 <br><br>
 
 ### Special Thanks to Binder
