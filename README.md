@@ -3,10 +3,10 @@ This repository contains machine learning notebooks focused on supervised learni
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/supervised-learning/main?urlpath=tree&clear_cache=0)
 
-__**Interactive Mode**__
+<u>**Interactive Mode**</u><br>
 Click the **Launch Binder** button above to experience the notebooks in interactive mode.
 <br><br>
-__**Static Mode**__
+__**Static Mode**__<br>
 Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">supervised-learning repository</a> to experience the notebooks in static mode. Note that if you wish to download notebooks to experience them locally, it is highly recommended that you first set up environment.yml (available in the repository).
 <br><br>
 
