@@ -3,7 +3,7 @@ This repository contains machine learning notebooks focused on supervised learni
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chase-kusterer/supervised-learning/main?urlpath=tree&clear_cache=0)
 <br><br>
-<**Interactive Mode**<br>
+**Interactive Mode**<br>
 Click the **Launch Binder** button above to experience the notebooks in interactive mode.
 <br><br>
 __**Static Mode**__<br>
