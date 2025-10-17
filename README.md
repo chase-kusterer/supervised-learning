@@ -12,24 +12,24 @@ Head to the <a href="https://github.com/chase-kusterer/supervised-learning/">sup
 
 ## Table of Contents
 ### Regression Modeling
-Script 01 - Base Modeling
-Script 02 - Missing Value Analysis and Transformations
-Script 03 - Feature Engineering
-Script 04 - Feature Engineering with Discrete Data
-Script 05 - The Model Building Framework
-Script 06 - Advanced Linear Models
-Script 07 - KNN and Distance Standardization
-Script 08 - Nonparametric Modeling with Regression Trees
-Script 09 - Hyperparameter Tuning
-Script 10 - Nonparametric Ensemble Models
+- Script 01 - Base Modeling<br>
+- Script 02 - Missing Value Analysis and Transformations<br>
+- Script 03 - Feature Engineering<br>
+- Script 04 - Feature Engineering with Discrete Data<br>
+- Script 05 - The Model Building Framework<br>
+- Script 06 - Advanced Linear Models<br>
+- Script 07 - KNN and Distance Standardization<br>
+- Script 08 - Nonparametric Modeling with Regression Trees<br>
+- Script 09 - Hyperparameter Tuning<br>
+- Script 10 - Nonparametric Ensemble Models<br><br>
 
 ### Classification Modeling
-Script 01 - Preparing the Titanic Dataset
-Script 02 - From Regression to Classification
-Script 03 - Changing the Prediction Threshold
-Script 04 - Classification Trees
-Script 05 - Hyperparameter Tuning and Ensemble Modeling
-Script 06 - Classification Modeling with Unsupervised Data
+- Script 01 - Preparing the Titanic Dataset
+- Script 02 - From Regression to Classification
+- Script 03 - Changing the Prediction Threshold
+- Script 04 - Classification Trees
+- Script 05 - Hyperparameter Tuning and Ensemble Modeling
+- Script 06 - Classification Modeling with Unsupervised Data
 <br><br>
 
 ### Special Thanks to Binder
